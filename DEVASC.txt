@@ -1,3 +1,3 @@
-Vamos a apasar DevNeto
+Vamos a aprobar DevNeto
 Comienzo a entender Git
-linea nueva desde feature creado
+linea nueva desde featurerecien creado
